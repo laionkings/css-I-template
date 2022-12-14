@@ -1,0 +1,31 @@
+body {
+    width: 400px;  
+}
+
+h1 {
+    border: 1px solid;
+    background-color: blue;
+    color:aliceblue
+}
+
+h2 {
+    border: 1px;
+    background-color: rgb(253, 253, 0);
+}
+
+section {
+    border: 1px;
+    background-color: rgb(0, 132, 4);
+}
+
+h3 {
+    color: aliceblue;
+}
+
+h4 {
+    color: aliceblue;
+}
+
+footer {
+    background-color: black;
+}
